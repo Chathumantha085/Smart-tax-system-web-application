@@ -3,7 +3,7 @@ A Smart Tax System web application is an intelligent digital platform designed t
 
 Members of the project.
 
-IT20093846 Wickramaarachchi W.C.C
-IT19123332 Kavishka P.K.P
-IT19504100 Fathima Shamrina
-IT21315800 Warnakulasooriya H.M.G.L
+1). IT20093846      Wickramaarachchi W.C.C                                                                                                                                                                                        
+2). IT19123332      Kavishka P.K.P                                                                                                                                                                                                  
+3). IT19504100      Fathima Shamrina                                                                                                                                                                                               
+4). IT21315800      Warnakulasooriya H.M.G.L
