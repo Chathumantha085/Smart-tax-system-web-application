@@ -7,3 +7,14 @@ Members of the project.
 2). IT19123332      Kavishka P.K.P                                                                                                                                                                                                  
 3). IT19504100      Fathima Shamrina                                                                                                                                                                                               
 4). IT21315800      Warnakulasooriya H.M.G.L
+
+
+** Member contribution.**
+
+Wickramaarachchi W.C.C : Develop User Management (CRUD for users)
+
+Kavishka P.K.P : Develop Document management system.
+
+Fathima Shamrina : Tax recode management (CRUD for Tax management)
+
+Warnakulasooriya H.M.G.L : Payment and subcription management (CRUD for Payment)
